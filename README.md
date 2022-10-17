@@ -1,5 +1,5 @@
 # Python-Machine-Learning-notes
-This repository contains Python and Machine Learning notes in .py scripts and .ipynb notebooks.<br>
-I have also added some cheat sheets.<br><br><br>
 
-ps: these are personal notes and so, not perfect. Some of these scripts are buggy and doesn't  work as they were originally intended to post experiments on styling. Any suggestions or corrections are openly welcome.
+Python implementations of some of the fundamental Machine Learning methods and algorithms from scratch as well as using standard Machine Learning libraries. <br>
+
+The purpose of this project is not to produce as optimized and computationally efficient algorithms as possible but rather to understand the inner workings, mathematics and the fundamental theories of these methods and algorithms.
